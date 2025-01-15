@@ -94,15 +94,6 @@ vehicle_recognition/
    - Generará gráficas en `reports/images/`.
    - Creará un reporte PDF con estadísticas y gráficas en `reports/pdf/vehicle_analysis_report.pdf`.
 
-### Evaluación del Modelo
-
-Para evaluar el rendimiento del modelo de detección, puedes ejecutar el script de evaluación:
-
-```bash
-python -m src.core.evaluator
-```
-
-Este script evaluará el modelo en un conjunto de datos de prueba y generará métricas de precisión y otros indicadores relevantes, incluyendo un reporte de clasificación y una matriz de confusión.
 
 ## Personalización
 
