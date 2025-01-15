@@ -28,6 +28,7 @@ Este proyecto utiliza YOLOv8 para detectar y rastrear vehículos como autos, mot
 ### Instalación de Dependencias
 
 Puedes instalar todas las dependencias necesarias utilizando el archivo `requirements.txt`. Asegúrate de tener `pip` instalado y ejecuta el siguiente comando en la raíz del proyecto:
+(recomendable crear entorno virtual).
 
 ```bash
 pip install -r requirements.txt
@@ -47,8 +48,8 @@ vehicle_recognition/
 │   │   ├── vehicle_counts.png
 │   │   ├── confidence_distribution.png
 │   │   └── vehicles_timeline.png
-│   └── pdf/                 # Reportes PDF
-│       └── vehicle_analysis_report.pdf
+│   └
+│   └── vehicle_analysis_report.pdf
 ├── src/
 │   ├── core/
 │   │   ├── __init__.py
