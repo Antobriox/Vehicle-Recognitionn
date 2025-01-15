@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Uso
 
 ### Ejecución del Proyecto
-1. Coloca el video que deseas procesar en la carpeta `data` en caso de que no encuentre la capeta `data` proceda a crearla y asegúrate de que se llame `Video.mp4` (o ajusta el nombre en el código si es diferente).
+1. Coloca el video que deseas procesar en la carpeta `data` en caso de que no encuentre la capeta `data` proceda a crearla, y asegúrate de que se llame `Video.mp4` (o ajusta el nombre en el código si es diferente).
 2. Ejecuta el archivo `detect_vehicles.py`:
 
 ```bash
